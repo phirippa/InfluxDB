@@ -1,4 +1,3 @@
-// Phi_Publish_DHT11.ino
 #include <ESP8266WiFi.h>
 #include <PubSubClient.h>
 
