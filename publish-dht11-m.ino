@@ -9,7 +9,7 @@ DHT dht(DHTPIN, DHTTYPE);
 
 const char* ssid = "Ria2G";
 const char* password = "12345679";
-const char* userId = "mqtt_phirippa";
+const char* userId = "mqtt_ship";
 const char* clientId = userId;
 const char* userPw = "1234";
 char* topic = "MyOffice/Indoor/SensorValue";
